@@ -1,0 +1,8 @@
+{
+  "startUrls": [
+    { "url": "https://example.com" }
+  ],
+  "renderMode": "never",
+  "minWordCount": 15,
+  "maxConcurrency": 5
+}

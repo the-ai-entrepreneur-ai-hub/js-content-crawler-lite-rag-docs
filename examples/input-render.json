@@ -1,0 +1,9 @@
+{
+  "startUrls": [
+    { "url": "https://nowsecure.nl" }
+  ],
+  "renderMode": "always",
+  "minWordCount": 80,
+  "maxConcurrency": 2,
+  "renderTimeoutMs": 30000
+}

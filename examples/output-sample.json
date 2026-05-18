@@ -1,0 +1,23 @@
+{
+  "url": "https://example.com/",
+  "title": "Example Domain",
+  "description": "Example Domain reserved for use in documentation.",
+  "markdown": "# Example Domain\n\nThis domain is for use in illustrative examples in documents. You may use this domain in literature without prior coordination or asking for permission.\n\n[More information...](https://www.iana.org/domains/example)",
+  "text": "Example Domain This domain is for use in illustrative examples in documents. You may use this domain in literature without prior coordination or asking for permission. More information...",
+  "wordCount": 28,
+  "headings": [
+    { "level": 1, "text": "Example Domain" }
+  ],
+  "links": [
+    "https://www.iana.org/domains/example"
+  ],
+  "images": [],
+  "sourceLane": "static",
+  "rendered": false,
+  "qualityState": "content_ready",
+  "qualityReasons": ["word_count_ok", "no_render_markers"],
+  "billingState": "billable",
+  "chargedEvent": "page-extracted",
+  "statusCode": 200,
+  "fetchedAt": "2026-05-15T14:32:18.214Z"
+}
