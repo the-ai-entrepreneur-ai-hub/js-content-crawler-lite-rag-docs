@@ -2,7 +2,7 @@
 
 Static-first web content extraction with on-demand JS rendering, built for RAG pipelines.
 
-[![Apify Store](https://img.shields.io/badge/Apify%20Store-Open%20Actor-blue?logo=apify)](https://apify.com/george.the.developer/js-content-crawler-lite-rag)
+[![Apify Store](https://img.shields.io/badge/Apify%20Store-Open%20Actor-blue?logo=apify)](https://apify.com/george.the.developer/js-content-crawler-lite-rag?fpr=bbquoh)
 
 ## Why this actor
 
@@ -151,6 +151,6 @@ If any of these fail on the static lane, the row is flagged `render_required` an
 
 ## Links
 
-- Apify Store: https://apify.com/george.the.developer/js-content-crawler-lite-rag
+- Apify Store: https://apify.com/george.the.developer/js-content-crawler-lite-rag?fpr=bbquoh
 - Support: the.ai.entrepreneur.ai.hub@gmail.com
 - Issues: https://github.com/the-ai-entrepreneur-ai-hub/js-content-crawler-lite-rag-docs/issues
